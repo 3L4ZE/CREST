@@ -22,8 +22,8 @@ I'm a passionate and dedicated tech enthusiast, always eager to learn and explor
 
 ## 📫 How to Reach Me  
 - **Email:** [shaddykitili@gmail.com](mailto:shaddykitili@gmail.com)  
-- **GitHub:** [github.com/shadrach-mwendwa](https://github.com/shadrach mwendwa)  
+- **GitHub:** [github.com/shadrach-mwendwa](https://github.com/SHADRACH MWENDWA)  
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadrach-mwendwa&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHADRACH MWENDWA&show_icons=true&theme=radical)
